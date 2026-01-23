@@ -31,7 +31,7 @@ build.bat
 ```
 
 # video showcase
-[link](https://youtu.be/QEf5WFOsl9A)
+[![Watch the video](https://img.youtube.com/vi/QEf5WFOsl9A/hqdefault.jpg)](https://www.youtube.com/embed/QEf5WFOsl9A)
 
 # screenshots
 
