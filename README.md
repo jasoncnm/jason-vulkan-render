@@ -30,9 +30,6 @@ Then, for the subsequent builds, run the command
 build.bat
 ```
 
-# video showcase
-[![Watch the video](https://img.youtube.com/vi/QEf5WFOsl9A/hqdefault.jpg)](https://www.youtube.com/embed/QEf5WFOsl9A)
-
 # screenshots
 
 - Texture Mapping + load .obj file
@@ -56,3 +53,6 @@ build.bat
 - Draw multiple Models and instances
 
 ![](captures/cap7.png)
+
+# video showcase
+[![Watch the video](https://img.youtube.com/vi/QEf5WFOsl9A/hqdefault.jpg)](https://www.youtube.com/embed/QEf5WFOsl9A)
