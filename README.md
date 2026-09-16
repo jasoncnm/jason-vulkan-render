@@ -1,10 +1,12 @@
 # My Vulkan Renderer Application
 
-A desktop graphics renderer using Vulkan graphics API
+A desktop Vulkan-based 3D renderer in C++
+
+# Build and Run the Application
 
 Currently, the application has only been tested on Windows.
 
-Make sure you have cmake and vulkan installed, and VULKAN_SDK is in your path enviroment. You can verify it by typing 
+Make sure you have CMake and Vulkan installed, and that VULKAN_SDK is in your PATH environment. You can verify it by typing 
 
 ```
 echo %VULKAN_SDK%
@@ -13,7 +15,6 @@ It should output something like
 ```
 ...\...\VulkanSDK\1.x.xxx.x
 ```
-# How to build
 
 Clone the repo with the command
 ```
